@@ -45,7 +45,6 @@ function playGame () {
             }
             console.log(humanScore);
             console.log(computerScore);
-            console.log(randomNumber)
         }   
         const humanSelection = getHumanChoice();
         const computerSelection = getComputerChoice();
