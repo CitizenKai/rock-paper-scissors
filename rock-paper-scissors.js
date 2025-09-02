@@ -21,3 +21,11 @@ function getComputerChoice() {
         }
         return computerChoice
     }
+
+/* Logic to get human choice:
+Create prompt to get player input. */
+
+function getHumanChoice() {
+    humanChoice = prompt('Hello player, make your choice: "rock", "paper", or "scissors"?')
+    return humanChoice
+}
