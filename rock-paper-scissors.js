@@ -1,5 +1,9 @@
 console.log("Hello World")
 
+
+let humanScore = 0
+let computerScore = 0
+
 /* Logic to get the computer choice:
 Create a new function named getComputerChoice.
 Create a variable randomNumber to store the result of the random number generator
